@@ -30,8 +30,10 @@ Aplicaremos los distintos algoritmos de búsqueda que se tratan en las sesiones 
   - **Vertical**: 1.
   - **Horizontal**: 2.
 - Para el algoritmo **A** se utilizará la **distancia Manhattan** como heurística:
-  $$ h(n) = {distancia \ horizontal} + {distancia \ vertical} $$
-  - En el ejemplo, la distancia Manhattan entre $i$ y $e$ es 4.
+
+$$ h(n) = {distancia \ horizontal} + {distancia \ vertical} $$
+
+- En el ejemplo, la distancia Manhattan entre $i$ y $e$ es $4$.
 
 ### Preguntas específicas:
 
