@@ -99,3 +99,22 @@ En el hipotético caso de que el servicio Google Maps empleara el algoritmo de *
 | Burgos, Logroño     | 150                 |
 | Logroño, Soria      | 106                 |
 | Soria, Calatayud    | 91                  |
+
+
+## Ejercicio 4
+
+Un breve resumen de lo que deberías haber aprendido hasta ahora si has resuelto los ejercicios anteriores:
+
+!["Evaluación de los algoritmos de búsquedas"](./Evaluacion%20_algoritmos_busquedas.png)
+Figura 3.15 Evaluación de los algoritmos de búsquedas, Russell & Norvig, _IA un enfoque moderno_. Russell y Norvig (2022
+
+!["Peso de la función heurística"](./Heuristica_ponderada.png)
+Epígrafe 3.5.4 "_Satisficing search: Inadmissible heuristics and weighted A*_". Russell y Norvig (2022
+
+!["A* ponderada"](./A_ponderada.png)
+Russell y Norvig (2022
+
+
+## Bibliografía
+
+Russell, S. J., & Norvig, P. (2022). _Artificial intelligence: a modern approach_. Global edition. Pearson Education Limited.
