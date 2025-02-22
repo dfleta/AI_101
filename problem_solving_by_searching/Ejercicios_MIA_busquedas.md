@@ -62,6 +62,13 @@ $$ h(n) = {distancia \ horizontal} + {distancia \ vertical} $$
 
 ---
 
+### Programación del algoritmo
+
+La búsqueda A* sobre este problema está programada aquí:
+["Problem solving searching A*"](https://github.com/dfleta/problem-solving-searching)
+
+---
+
 ## Ejercicio 2
 
 ### Preguntas específicas:
